@@ -1,0 +1,36 @@
+.background{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.p1{
+    width: 600px;
+    height: 200px;
+    background: white;
+border: 1rem ridge dodgerblue;
+padding: 1rem;
+margin: 1rem;
+
+/*top tepa*/
+/*left chap*/
+/*right o'ng*/
+/*bottom past*/ }
+.p2{
+    width: 600px;
+height: 200px;
+background-color: white;
+border-left: 1rem groove red;
+border-right: 1rem double blue;
+border-top: 1rem solid green;
+border-bottom: 1rem solid deeppink;
+
+
+
+
+
+
+
+
+}
